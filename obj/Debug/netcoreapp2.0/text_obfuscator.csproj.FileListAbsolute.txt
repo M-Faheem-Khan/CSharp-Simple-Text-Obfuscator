@@ -1,0 +1,10 @@
+C:\Users\Faheem Khan\Documents\C#\text_obfuscator\bin\Debug\netcoreapp2.0\text_obfuscator.deps.json
+C:\Users\Faheem Khan\Documents\C#\text_obfuscator\bin\Debug\netcoreapp2.0\text_obfuscator.runtimeconfig.json
+C:\Users\Faheem Khan\Documents\C#\text_obfuscator\bin\Debug\netcoreapp2.0\text_obfuscator.runtimeconfig.dev.json
+C:\Users\Faheem Khan\Documents\C#\text_obfuscator\bin\Debug\netcoreapp2.0\text_obfuscator.dll
+C:\Users\Faheem Khan\Documents\C#\text_obfuscator\bin\Debug\netcoreapp2.0\text_obfuscator.pdb
+C:\Users\Faheem Khan\Documents\C#\text_obfuscator\obj\Debug\netcoreapp2.0\text_obfuscator.csproj.CoreCompileInputs.cache
+C:\Users\Faheem Khan\Documents\C#\text_obfuscator\obj\Debug\netcoreapp2.0\text_obfuscator.AssemblyInfoInputs.cache
+C:\Users\Faheem Khan\Documents\C#\text_obfuscator\obj\Debug\netcoreapp2.0\text_obfuscator.AssemblyInfo.cs
+C:\Users\Faheem Khan\Documents\C#\text_obfuscator\obj\Debug\netcoreapp2.0\text_obfuscator.dll
+C:\Users\Faheem Khan\Documents\C#\text_obfuscator\obj\Debug\netcoreapp2.0\text_obfuscator.pdb
